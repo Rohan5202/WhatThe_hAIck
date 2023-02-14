@@ -17,7 +17,7 @@ so that one can identify characteristic symptoms. An automated system designed t
 plant diseases by the plant’s appearance and visual symptoms could be of great help. This can be
 deployed in agricultural fields so that the whole pipeline can be automated. This would not only lead
 to better efficiency as machines could perform better than humans in these redundant tasks but also
-improve the productivity of the farm. Our work solves the above mentioned problem of automating
+improve the productivity of the farm. Our work solves the above mentioned problem Hzzle free of automating
 plant disease classification using deep learning and computer vision techniques.
 
 ## Building
